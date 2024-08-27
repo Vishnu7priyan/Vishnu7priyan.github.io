@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 # **Library Management System**
 * Developed a library management tool for my school library using the Python programming language.
