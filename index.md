@@ -13,6 +13,10 @@
 * Developed a Linux-based tool for automating pentesting, encompassing tasks such as recon, sensitive data exposure, and vulnerability identification.
 * Users receive notifications via the Discord application when the framework detects valuable informatio
 
+## **Movie-Ticket Alert Bot**
+* Created a Telegram bot that notifies users when movie tickets become available.
+* Users can add themselves to any movie list to get updates about ticket openings.
+
 ## **Open Source Intelligence Tool**  [View](https://drive.google.com/file/d/1KLNYSoT5QMxUzJB1iwiXLLZUtu27mgMN/view)
 * Developed an OSINT tool using the Go language
 * The tool encompasses 11 options, with 2 focused on person-related information and 9 dedicated to website information gathering.
