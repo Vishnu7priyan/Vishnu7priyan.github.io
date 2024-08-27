@@ -9,7 +9,7 @@
 * Developed a text and file encryption/decryption website using HTML, CSS, and JavaScript.
 * Users can utilize Rot13, AES, DES, Caesar cipher, TripleDES, and rail fence cipher to encrypt or decrypt text.
   
-## **Daily Attendance Notifier in College Website** [Visit](https://github.com/Vishnu7priyan/Attendance-Status-Bot/tree/main)
+## **Attendance Status Notifier Bot** [Visit](https://github.com/Vishnu7priyan/Attendance-Status-Bot/tree/main)
 * Created a Selenium Python script to get attendance status from College website
 * Student can get the status of attendance in image format(screenshot of website) via Telegram Bot
   
