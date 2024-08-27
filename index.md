@@ -8,7 +8,11 @@
 ## **Text, File Encryption and Decryption** [View](https://drive.google.com/file/d/1Nadd8eiCm-JE-YuGUM5b98JcoeB_I4Cj/view)
 * Developed a text and file encryption/decryption website using HTML, CSS, and JavaScript.
 * Users can utilize Rot13, AES, DES, Caesar cipher, TripleDES, and rail fence cipher to encrypt or decrypt text.
-
+  
+## **Daily Attendance Notifier in College Website**
+* Created a Selenium Python script to get attendance status from College website
+* Student can get the status of attendance in image format(screenshot of website) via Telegram Bot
+  
 ## **Live Enumeration Open Source Tool**
 * Developed a Linux-based tool for automating pentesting, encompassing tasks such as recon, sensitive data exposure, and vulnerability identification.
 * Users receive notifications via the Discord application when the framework detects valuable informatio
