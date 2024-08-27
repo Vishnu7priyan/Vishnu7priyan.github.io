@@ -20,4 +20,8 @@
 ## **API Hacking Tool**
 * Developed a Python-based API hacking tool to assess the security posture of website APIs.
 * Designed and implemented modular components for authentication, injection, enumeration, and fuzzing.
+
 * * *
+
+# Skills 
+`Python`,`Bash`,`Go`
