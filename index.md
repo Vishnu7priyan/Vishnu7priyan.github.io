@@ -16,7 +16,8 @@
 ## **Open Source Intelligence Tool**  [View](https://drive.google.com/file/d/1KLNYSoT5QMxUzJB1iwiXLLZUtu27mgMN/view)
 * Developed an OSINT tool using the Go language
 * The tool encompasses 11 options, with 2 focused on person-related information and 9 dedicated to website information gathering.
-
+  
 ## **API Hacking Tool**
 * Developed a Python-based API hacking tool to assess the security posture of website APIs.
 * Designed and implemented modular components for authentication, injection, enumeration, and fuzzing.
+* * *
