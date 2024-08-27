@@ -22,6 +22,3 @@
 * Designed and implemented modular components for authentication, injection, enumeration, and fuzzing.
 
 * * *
-
-# Skills 
-`Python`,`Bash`,`Go`
